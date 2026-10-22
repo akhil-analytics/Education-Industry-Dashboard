@@ -102,8 +102,8 @@ Education-Industry-Dashboard/
 
 ## Author
 
-**Your Name**  
-Add your LinkedIn, portfolio, or contact details here.
+Akhil Dhiman 
+
 
 ---
 
